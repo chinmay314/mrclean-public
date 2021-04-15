@@ -1,0 +1,15 @@
+import subprocess
+
+subprocess.Popen('python mrclean1.py')
+subprocess.Popen('python mrclean2.py')
+subprocess.Popen('python mrclean3.py')
+subprocess.Popen('python mrclean4.py')
+subprocess.Popen('python mrclean5.py')
+subprocess.Popen('python mrclean6.py')
+subprocess.Popen('python mrclean7.py')
+subprocess.Popen('python mrclean8.py')
+subprocess.Popen('python mrclean9.py')
+subprocess.Popen('python mrclean10.py')
+subprocess.Popen('python mrclean11.py')
+subprocess.Popen('python mrclean12.py')
+subprocess.Popen('python mrclean13.py')

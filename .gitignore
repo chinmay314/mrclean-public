@@ -1,0 +1,6 @@
+*.xlsx
+.idea/
+venv/
+*.env
+Procfile
+ffmpeg.exe

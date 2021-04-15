@@ -1,0 +1,25 @@
+  bonus / bon    awards bonus to recognized player's team
+  buzz  / b      guess what this does
+  c              clears without ignoring buzzes from same team (use if not scoring)
+  clean          deletes messages
+  export         exports current score sheet in .xslx format
+  help           Shows this message
+  interrupt / i  penalizes team by 4 points
+  join           joins voice channel
+  leave          leaves voice channel
+  name           sets team names
+  ping           
+  play           
+  reset          resets teams and score
+  score / s      advances question
+  score_check    
+  score_reset    resets score
+  score_sheet/ss pretty prints score sheet
+  stats          prints stats by player
+  taunt_mode     gently encourages the losing team if the lead is too big
+  team           join a team by using .team [team] [sub or not] [sub half]
+  team_reset     resets teams
+  timer          timer
+  tossup / t     awards tossup
+  undo           clears current question. .undo back to clear previous
+  vol         
